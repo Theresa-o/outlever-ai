@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google/genai": "^1.38.0",
     "@google/generative-ai": "^0.24.1",
     "formik": "^2.4.6",
     "mongodb": "^6.17.0",
     "mongoose": "^8.16.1",
-    "next": "15.3.4",
+    "next": "^15.3.6",
     "openai": "^5.8.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
